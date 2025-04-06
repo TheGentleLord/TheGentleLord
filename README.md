@@ -1,4 +1,4 @@
-# 🧠 TheGentleLord – Ambitious Bug Bounty Hunter in Progress 🚀
+# 🧠 TheGentleLord – Ambitious Bug Bounty Hunter / Hacker in Progress 🚀
 
 Hey there, I'm **TheGentleLord** – an ambitious learner on a mission to master ethical hacking, bug bounty hunting, and everything in between.  
 I'm not where I want to be *yet* — but I'm leveling up daily, one recon scan and write-up at a time. 💪
@@ -59,7 +59,7 @@ I'm not where I want to be *yet* — but I'm leveling up daily, one recon scan a
 ## 🤝 Let's Connect
  
 - 💬 Discord: `TheGentleLord18`  
-- 📧 Email: thegentlelord18@protonmail.com  
+- 📧 Email: thegentlelord18@gmail.com  
 - 🔐 HackerOne / Bugcrowd: DM me for profile links
 
 ---
